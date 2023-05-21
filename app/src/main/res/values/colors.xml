@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_dark">#000000</color>
+
+    <color name="v11_white">@android:color/black</color>
+    <color name="v11_gray_10">@color/material_dark</color>
+    <color name="sig_color_background_main_light">@color/material_dark</color>
+
+    <color name="sig_color_text_primary_light">#b5b7b5</color>
+    <color name="sig_color_text_secondary_light">#ccffffff</color>
+    <color name="sig_color_text_tertiary_light">@android:color/black</color>
+    <color name="v11_gray_100">@android:color/white</color>
+    <color name="v11_black">@android:color/white</color>
+    <color name="v11_gray_80">#ccffffff</color>
+    <color name="v11_gray_20">@android:color/black</color>
+    <color name="cardview_dark_background">@android:color/black</color>
+    <!-- <color name="create_button_background">#ff000000</color> -->
+    <!-- <color name="sig_color_brand_secondary_light">#ff000000</color> -->
+
+    <color name="sig_color_background_object_light">#ffffffff</color>
+    <color name="v11_gray_2">@android:color/black</color>
+    <color name="v11_gray_25">@android:color/black</color>
+
+    <color name="capri_dark_pill_top">@android:color/black</color>
+    <color name="sig_color_chat_pending_sending_light">#ccffffff</color>
+    <color name="sig_color_background_subscreen_light">@android:color/black</color>
+    <color name="v11_true_black">@android:color/black</color>
+    <color name="off_black">@android:color/white</color>
+    <color name="sig_color_background_surface_down_light">@android:color/black</color>
+    <color name="sig_color_background_surface_light">@android:color/black</color>
+    <color name="sig_color_button_secondary_light">#252525</color>
+    <color name="sig_color_icon_primary_light">@android:color/white</color>
+    <color name="sig_color_background_divider_light">@android:color/transparent</color>
+    <color name="v11_gray_90">@android:color/white</color>
+    <color name="add_friends_color">@android:color/white</color>
+    <color name="ff_off_black">@android:color/white</color>
+</resources>
